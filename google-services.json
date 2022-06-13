@@ -29,6 +29,13 @@
             {
               "client_id": "911896524259-0hsac3e9dbq1agkd5ibe9dj505cddmkk.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "911896524259-4m5mi6jsbdnsmancv93r4ju3t1erjj19.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pondiuni.pulsemoodle"
+              }
             }
           ]
         }
