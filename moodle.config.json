@@ -65,25 +65,15 @@
     },
     "wsservice": "moodle_mobile_app",
     "demo_sites": {
-        "student": {
-            "url": "https://school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https://school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+},
     "zoomlevels": {
         "normal": 100,
         "low": 110,
         "high": 120
     },
-    "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "customurlscheme": "pulsemoodle",
+    "siteurl": "https://lms.pondiuni.edu.in",
+    "sitename": "Pondicherry University Learning System",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
