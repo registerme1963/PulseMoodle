@@ -1,5 +1,5 @@
 {
-    "app_id": "com.pulse.pulsemoodle",
+    "app_id": "com.pondiuni.pulsemoodle",
     "appname": "PULSE Moodle Mobile",
     "versioncode": 40101,
     "versionname": "4.0.1",
@@ -87,7 +87,7 @@
     "forceLoginLogo": false,
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.pulse.pulsemoodle",
+        "android": "com.pondiuni.pulsemoodle",
         "ios": "id633359593"
     },
     "wsrequestqueuelimit": 10,
