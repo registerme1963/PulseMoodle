@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911896524259",
+    "project_id": "pulse-moodle-9f718",
+    "storage_bucket": "pulse-moodle-9f718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911896524259:android:6e303ce11e4a6e381d9cd6",
+        "android_client_info": {
+          "package_name": "com.pondiuni.pulsemoodle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911896524259-0hsac3e9dbq1agkd5ibe9dj505cddmkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpr4avhZWnZNfUkar09qQGH_UzzpHSRLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911896524259-0hsac3e9dbq1agkd5ibe9dj505cddmkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
