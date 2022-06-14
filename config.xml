@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="40100" id="com.pulse.pulsemoodle" ios-CFBundleVersion="4.0.1.0" version="0.0.1" versionCode="40001" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-versionCode="40100" id="com.pondiuni.pulsemoodle" ios-CFBundleVersion="4.0.1.0" version="0.0.1" versionCode="40001" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>PULSE</name>
     <description>Pondicherry University Learning System</description>
     <author email="pulseadmin@pondiuni.edu.in" href="https://pondiuni.edu.in">PULSE Dev Team</author>
