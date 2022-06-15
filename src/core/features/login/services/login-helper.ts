@@ -387,8 +387,8 @@ export class CoreLoginHelperProvider {
         }
 
         const validProviders: CoreSiteIdentityProvider[] = [];
-        const httpUrl = CoreText.concatenatePaths(siteConfig.wwwroot, 'auth/oauth2/');
-        const httpsUrl = CoreText.concatenatePaths(siteConfig.httpswwwroot, 'auth/oauth2/');
+        const httpUrl = CoreText.concatenatePaths(siteConfig.wwwroot, 'auth/oidc/');
+        const httpsUrl = CoreText.concatenatePaths(siteConfig.httpswwwroot, 'auth/oidc/');
 
         if (siteConfig.identityproviders && siteConfig.identityproviders.length) {
             siteConfig.identityproviders.forEach((provider) => {
