@@ -2,7 +2,7 @@
     "app_id": "com.pondiuni.pulsemoodle",
     "appname": "PULSE Moodle Mobile",
     "versioncode": 40101,
-    "versionname": "4.0.1",
+    "versionname": "0.0.1",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -71,7 +71,7 @@
         "low": 110,
         "high": 120
     },
-    "customurlscheme": "pulsemoodle",
+    "customurlscheme": "moodlemobile",
     "siteurl": "https://lms.pondiuni.edu.in",
     "sitename": "Pondicherry University Learning System",
     "multisitesdisplay": "",
@@ -88,7 +88,7 @@
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
         "android": "com.pondiuni.pulsemoodle",
-        "ios": "id633359593"
+        "ios": ""
     },
     "wsrequestqueuelimit": 10,
     "wsrequestqueuedelay": 100,
